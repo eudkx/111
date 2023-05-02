@@ -1,0 +1,17 @@
+#scrollTop {
+	position: fixed;
+	bottom: 140px;
+	left: 60px;
+	z-index: 3000;
+	font-size: 40px;
+	color: #333;
+}
+
+.isShowBtn {
+	opacity: 1;
+	transition: 1s;
+}
+.table_modal {
+	width: 1000px;
+	background-color: black;
+}
